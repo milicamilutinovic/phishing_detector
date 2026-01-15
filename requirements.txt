@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+joblib
+requests
+python-dotenv
+beautifulsoup4
+tldextract
+lxml
+validators
+matplotlib
+seaborn

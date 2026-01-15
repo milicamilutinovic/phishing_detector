@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+*.csv
+
+# Debug & emails
+debug_emls/
+quarantine/
+
+# Logs
+predictions_log.csv
+predictions_log_backup.csv
+
+# Models
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
