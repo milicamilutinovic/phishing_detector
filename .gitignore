@@ -21,3 +21,6 @@ predictions_log_backup.csv
 
 # OS
 .DS_Store
+
+# Archives
+*.zip
