@@ -22,7 +22,6 @@ The system performs automatic phishing detection using text and URL-based featur
 ## Repository Structure
 - `src/` – source code
 - `models/reports/` – evaluation plots and reports
-- `monitoring/` – monitoring configuration
 
 ## Author
 Milica Milutinović
