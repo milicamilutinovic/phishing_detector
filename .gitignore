@@ -24,3 +24,6 @@ predictions_log_backup.csv
 
 # Archives
 *.zip
+
+.env
+
